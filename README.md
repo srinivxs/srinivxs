@@ -1,57 +1,52 @@
 <h1 align="center">Hey, I'm Srinivas V B</h1>
-<h3 align="center">Full-Stack Developer & Cybersecurity Enthusiast | Python . Next.js . FastAPI . Docker</h3>
+<h3 align="center">Cybersecurity Professional | VAPT . SOC Operations . Cloud Security</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srinivas-vb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:srinivasbalajee0063@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/srinivxs"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### About Me
-I'm a **Full-Stack Developer** with a strong interest in **cybersecurity** and building tools that make the internet safer.
-I enjoy designing systems end-to-end — from clean, educational frontends to robust backend pipelines that process and analyze real-world threats.
+Cybersecurity professional with hands-on experience in **VAPT** and **SOC operations** — from exploiting OWASP Top 10 vulnerabilities to triaging alerts on SIEM platforms and running incident response workflows.
 
-I work primarily with **Python, FastAPI, Next.js, and TypeScript**, and I'm comfortable orchestrating distributed systems with **Celery, Redis, and Docker**.
-My focus is on writing code that's **secure by default, easy to maintain, and built to scale**.
-
-Currently based in **Chennai, India**.
+Certified on **AWS (Solutions Architect)** and **Azure (AZ-104)**. I build security tools in Python and break things to understand how to defend them.
 
 ---
 
 ### Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML, CSS
-**Backend:** Python, FastAPI, Celery, Node.js, REST APIs
-**Databases:** PostgreSQL, Redis, SQLAlchemy, Alembic
-**Infrastructure:** Docker, Docker Compose, Nginx, GitHub Actions CI/CD
-**Cybersecurity:** Email forensics, phishing detection, threat intelligence, NLP-based analysis
-**Languages:** Python, TypeScript, JavaScript, SQL
+**Offensive:** Burp Suite, Nmap, Metasploit, Nikto, Gobuster, OWASP Top 10
+**Defensive:** Splunk, Elastic Stack, Snort, Wireshark, MITRE ATT&CK, Cyber Kill Chain
+**Cloud:** AWS (EC2, IAM, S3), Azure (AZ-104 Certified)
+**Dev:** Python, Bash, FastAPI, Django, Docker, PostgreSQL, Redis
 
 ---
 
-### Featured Projects
+### Featured Project
 
 - [**PhisMail**](https://github.com/srinivxs/phismail)
-  Full-stack phishing email analysis platform built with **FastAPI + Next.js + Celery**. Parses `.eml` files, traces URLs, queries threat intel feeds (OpenPhish, PhishTank, URLHaus), runs NLP-based language analysis, and produces risk scores with explainable feature attribution. Includes Docker Compose orchestration for 6 services.
+  Phishing email analysis platform that parses `.eml` files, queries threat intel feeds (OpenPhish, PhishTank, URLHaus), runs NLP-based language scoring, and produces explainable risk verdicts. Built with **FastAPI + Next.js + Celery + Redis**, orchestrated with Docker Compose.
 
 ---
 
-### Currently Working On
-- Building out **PhisMail** with ML-based classification and STIX2 IOC export
-- Exploring **cloud deployment** and scalable security architectures
-- Contributing to open-source **cybersecurity** and **Python** projects
+### Certifications
+
+`AWS Solutions Architect – Associate` · `Azure Administrator AZ-104` · `TCM Linux 100` · `TryHackMe Jr Pentester`
 
 ---
 
 ### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/srinivas-vb/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:srinivasbalajee0063@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/srinivxs"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building tools that make the internet a little safer, one commit at a time."</i>
+  <i>"Breaking things to understand how to defend them."</i>
 </p>
