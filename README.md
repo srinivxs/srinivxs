@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Srinivas V B</h1>
+<h1 align="center">Hey, I'm Srinivas</h1>
 <h3 align="center">Cybersecurity Professional | VAPT . SOC Operations . Cloud Security</h3>
 
 <p align="center">
@@ -10,17 +10,19 @@
 ---
 
 ### About Me
-Cybersecurity professional with hands-on experience in **VAPT** and **SOC operations** — from exploiting OWASP Top 10 vulnerabilities to triaging alerts on SIEM platforms and running incident response workflows.
+Cybersecurity professional with hands-on experience in **VAPT** and **SOC operations**  from exploiting OWASP Top 10 vulnerabilities to triaging alerts on SIEM platforms and running incident response workflows.
 
 Certified on **AWS (Solutions Architect)** and **Azure (AZ-104)**. I build security tools in Python and break things to understand how to defend them.
 
 ---
 
 ### Tech Stack
-
 **Offensive:** Burp Suite, Nmap, Metasploit, Nikto, Gobuster, OWASP Top 10
+
 **Defensive:** Splunk, Elastic Stack, Snort, Wireshark, MITRE ATT&CK, Cyber Kill Chain
+
 **Cloud:** AWS (EC2, IAM, S3), Azure (AZ-104 Certified)
+
 **Dev:** Python, Bash, FastAPI, Django, Docker, PostgreSQL, Redis
 
 ---
